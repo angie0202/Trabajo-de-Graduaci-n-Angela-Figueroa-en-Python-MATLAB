@@ -23,15 +23,8 @@ Desarrollo de infraestructura experimental para el dron CrazyFlie 2.1 en Ecosist
 **Instrucciones de instalación**
 
 - Clona este repositorio o descarga los archivos.
-- Instala las dependencias con:
-
-          *pip install -r requirements.txt*
-
 - Conecta el CrazyFlie 2.1 y verifica que esté encendido.
 - Configura el broker MQTT según la IP del Robotat.
-- Ejecuta el script principal con:
-
-          *python main_robotat.py*
 **Uso**
 
 - Ejecuta el script principal para iniciar la conexión con el dron.
